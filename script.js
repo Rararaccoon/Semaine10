@@ -34,7 +34,7 @@ function achatMultiplicateur() {
 }
 
 $bouton.onclick = clic;
-$multiplicateur.onclick = acheterMultiplicateur;
+$multiplicateur.onclick = achatMultiplicateur;
 affichageScore();
 affichageNbMultiplicateur();
 
